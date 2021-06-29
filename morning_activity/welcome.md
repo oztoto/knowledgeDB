@@ -83,6 +83,8 @@ SSK がやりたい技術スタックを集めて、最初のアプリリリー�
 
 ## 既に終わってる内容
 
+これまでの内容を振り返りたい方は、[過去の活動報告をこちら](https://github.com/toto-inu/knowledgeDB/tree/master/morning_activity)でしてますので、是非ご参照ください！
+
 < React >
 
 1. メインページの基本的な要素を配置
